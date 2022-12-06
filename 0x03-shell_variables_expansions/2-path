@@ -1,0 +1,2 @@
+#!/biin/bash
+export PATH="$HOME/usr:$PATH:/action"
