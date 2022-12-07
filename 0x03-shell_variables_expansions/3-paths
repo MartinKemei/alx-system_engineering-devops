@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A maxdepth wc -l
+echo $PATH | tr ":" "\n" | wc -l
