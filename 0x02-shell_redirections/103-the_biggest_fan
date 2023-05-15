@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -f1 "access.tsv" | sort | uniq -u | sort -nr | head -n 11
