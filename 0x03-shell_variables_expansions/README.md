@@ -41,4 +41,4 @@
 >Functions are faster
    * Aliases are looked up after functions and thus resolving is slower.
    While aliases are easier to understand, shell functions are preferred over aliases for almost every purpose.
----
+___
