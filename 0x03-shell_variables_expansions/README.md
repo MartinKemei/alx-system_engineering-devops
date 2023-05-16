@@ -24,3 +24,10 @@
    * Individual user configuration files e.g _~/.bash_profile_  _~/.bash_login_  _~/.profile_  _~/.bashrc_
    &&  _~./bash_logout_
 
+## The `alias` Command
+   * An alias allows a string to be substituted for a word when it is used as the first word of a simple command.
+   The shell maintains a list of aliases that may be set and unset with the alias and unalias built-in commands.
+   Issue the alias without options to display a list of aliases known to the current shell.
+>Functions are faster
+   * Aliases are looked up after functions and thus resolving is slower.
+   While aliases are easier to understand, shell functions are preferred over aliases for almost every purpose.
