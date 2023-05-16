@@ -21,6 +21,6 @@
 ## Shell Initialization Files
    * System-wide configuration files include **/etc/profile** **/etc/bashrc** - All settings that you want
    to apply to all your users' environments should be in this file.
-   * Individual user configuration files e.g __~/.bash_profile__  __~/.bash_login__  __~/.profile__  __~/.bashrc__
-   &&  __~./bash_logout__
+   * Individual user configuration files e.g _~/.bash_profile_  _~/.bash_login_  _~/.profile_  _~/.bashrc_
+   &&  _~./bash_logout_
 
