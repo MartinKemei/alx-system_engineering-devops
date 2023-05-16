@@ -1,8 +1,17 @@
 #					0x03. Shell, init files, variables and expansions
 
 ## Expansions
+   * Brace Expansion
+   * Tilde expansion
+   * Parameter expansion
+   * Command substititution
+   * Arithmetic expansion
+   * Word splitting
+   * Filename expansion
 
 ## Shell Arithmetic
+   * Arithmetic expansion allows the evaluation of an arithmetic expression and the substitution of the result. The format for arithmetic expansion is:
+   * `$((EXPRESSION))` _- double quotes inside parantheses is not trwatd specially._
 
 ## Variables
    * A variable is a character string to which we assign a value. The value assigned could be a number, text, filename, device, or any other type of data.
