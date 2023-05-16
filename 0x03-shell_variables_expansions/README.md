@@ -19,8 +19,8 @@
     Some of these variables are environment variables whereas others are local variables.
 
 ## Shell Initialization Files
-   * System-wide configuration files include '''/etc/profile''' '''/etc/bashrc''' - All settings that you want
+   * System-wide configuration files include **/etc/profile** **/etc/bashrc** - All settings that you want
    to apply to all your users' environments should be in this file.
-   * Individual user configuration files e.g '''~/.bash_profile''' '''~/.bash_login''' '''~/.profile''' '''~/.bashrc''' &&
-   '''~./bash_logout
+   * Individual user configuration files e.g __~/.bash_profile__  __~/.bash_login__  __~/.profile__  __~/.bashrc__
+   &&  __~./bash_logout__
 
