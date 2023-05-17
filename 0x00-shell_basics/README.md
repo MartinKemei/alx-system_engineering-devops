@@ -26,5 +26,6 @@ The cd command, for example, is a shell builtin.
 3. A shell function. These are miniature shell scripts incorporated into the environment. 
 4. An alias. Commands that we can define ourselves, built from other commands. This will be covered in a later lesson.
 
-> The following commands open a new world for us to explore the _LINUX_ system
-> type, which, help and man are very important to understand.
+> The following commands open a new world for us to explore the _LINUX_ system;
+> type, which, help and man.
+---
