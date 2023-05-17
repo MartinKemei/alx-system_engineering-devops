@@ -22,9 +22,9 @@ powerful tasks from the *CLI*.
 programs can be compiled binaries such as programs written in C and C++, or programs written 
 in scripting languages such as the shell, Perl, Python, Ruby, etc.
 2. A command built into the shell itself. bash provides a number of commands internally called _shell builtins_. 
-The cd command, for example, is a shell builtin.
+The `cd` command, for example, is a _shell builtin_.
 3. A shell function. These are miniature shell scripts incorporated into the environment. 
-4. An alias. Commands that we can define ourselves, built from other commands. This will be covered in a later lesson.
+4. An `alias`. Commands that we can define ourselves, built from other commands.
 
 > The following commands open a new world for us to explore the _LINUX_ system;
 > type, which, help and man.
