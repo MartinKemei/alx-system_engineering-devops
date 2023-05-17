@@ -1,4 +1,5 @@
-[![DevOps Image](/readme-images/devopps.jpg 'DevOps Image')] 
+![DevOps Image](https://st.depositphotos.com/57404040/60706/i/1600/depositphotos_607063656-stock-photo-devops-devsecops-approach-app-development.jpg 'DevOps Image')
+
 # alx-system_engineering-devops
 
 ## DevOps engineers: what are they?
