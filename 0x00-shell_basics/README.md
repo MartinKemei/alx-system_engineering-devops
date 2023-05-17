@@ -13,4 +13,17 @@ around the _**LINUX**_ system.
 ## Manipulating Files
 - The most frequently used commands include `cp` `mv` `rm` && `mkdir` couple 
 these with a bunch _flags_ and you will be able to execute pretty 
-powerful tasks from the *CLI*
+powerful tasks from the *CLI*.
+
+## Working with Commands
+
+> Commands can be one of 4 different kinds:
+1. An executable program like all those files we saw in /usr/bin. Within this category, 
+programs can be compiled binaries such as programs written in C and C++, or programs written 
+in scripting languages such as the shell, Perl, Python, Ruby, etc.
+2. A command built into the shell itself. bash provides a number of commands internally called shell builtins. 
+The cd command, for example, is a shell builtin.
+3. A shell function. These are miniature shell scripts incorporated into the environment. 
+4. An alias. Commands that we can define ourselves, built from other commands. This will be covered in a later lesson.
+
+> type, which, help and man are very important to understand.
