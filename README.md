@@ -1,3 +1,4 @@
+[![DevOps Image](/home/readme-images/devopps.jpg)] 
 # alx-system_engineering-devops
 
 ## DevOps engineers: what are they?
