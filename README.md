@@ -1,4 +1,4 @@
-![DevOps Image](https://st.depositphotos.com/57404040/54748/i/600/depositphotos_547488614-stock-photo-dataops-concept-devops-automated-processes.jpg 'DevOps Image')
+![DevOps Image](https://st3.depositphotos.com/4545541/36233/v/600/depositphotos_362330486-stock-illustration-infinity-symbol-background-vector-illustration.jpg 'DevOps Image')
 
 # alx-system_engineering-devops
 
