@@ -6,7 +6,7 @@
 - Designing and deploying software that automatically updates and runs efficiently with little assistance from end users is their goal.
 
 ## System engineers: what are they?
-- An specialist in computers who focuses on integrating diverse technical tools, parts, and connectors is known as a systems engineer.
+- A specialist in computers who focuses on integrating diverse technical tools, parts, and connectors is known as a systems engineer.
 - Systems engineers seek to increase the effectiveness of a company's technologically dependent operations in order to increase productivity.
 - They accomplish this by assessing an organization's current systems and assets, including the hardware, software, and staff members who use these technological systems.
 - Then, when necessary, a systems engineer may make, observe, and continuously modify optimizations to these systems.
