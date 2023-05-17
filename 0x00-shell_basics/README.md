@@ -12,5 +12,5 @@ around the _**LINUX**_ system.
 
 ## Manipulating Files
 - The most frequently used commands include `cp` `mv` `rm` && `mkdir` couple 
-these with a bunch _flags_ you will be able to execute pretty 
+these with a bunch _flags_ and you will be able to execute pretty 
 powerful tasks from the *CLI*
