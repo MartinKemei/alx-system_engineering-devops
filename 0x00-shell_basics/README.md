@@ -18,7 +18,7 @@ powerful tasks from the *CLI*.
 ## Working with Commands
 
 ### Commands can be one of 4 different kinds:
-1. An executable program like all those files we saw in /usr/bin. Within this category, 
+1. An executable program like all files usually located in /usr/bin. Within this category, 
 programs can be compiled binaries such as programs written in C and C++, or programs written 
 in scripting languages such as the shell, Perl, Python, Ruby, etc.
 2. A command built into the shell itself. bash provides a number of commands internally called shell builtins. 
