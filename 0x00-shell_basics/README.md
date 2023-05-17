@@ -9,3 +9,8 @@
 ## Navigation
 - With these commands `pwd` `cd` && `ls` you can easily maneuver your way
 around the _**LINUX**_ system. 
+
+## Manipulating Files
+- The most frequently used commands include `cp` `mv` `rm` && `mkdir` couple 
+these with a bunch _flags_ and _pipes_ you will be able to execute pretty 
+powerful tasks from the *CLI*
