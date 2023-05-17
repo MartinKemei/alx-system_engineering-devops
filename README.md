@@ -1,4 +1,4 @@
-[![DevOps Image](/home/readme-images/devopps.jpg)] 
+[![DevOps Image](/readme-images/devopps.jpg 'DevOps Image')] 
 # alx-system_engineering-devops
 
 ## DevOps engineers: what are they?
