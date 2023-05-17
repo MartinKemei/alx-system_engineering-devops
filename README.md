@@ -1,4 +1,4 @@
-![DevOps Image](https://st.depositphotos.com/57404040/60706/i/1600/depositphotos_607063656-stock-photo-devops-devsecops-approach-app-development.jpg 'DevOps Image')
+![DevOps Image](https://st.depositphotos.com/57404040/54748/i/600/depositphotos_547488614-stock-photo-dataops-concept-devops-automated-processes.jpg 'DevOps Image')
 
 # alx-system_engineering-devops
 
